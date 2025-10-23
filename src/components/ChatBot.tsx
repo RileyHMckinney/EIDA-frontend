@@ -224,7 +224,7 @@ const ChatBot: React.FC = () => {
                   >
                     Hadi Khan
                   </a>{' '}
-                  — Frontend Developer • UX Design & Cloud Integration
+                  — AI Research & Data Science • Model Development & Analysis
                 </li>
                 <li>
                   <a
@@ -235,7 +235,7 @@ const ChatBot: React.FC = () => {
                   >
                     Yumna Khan
                   </a>{' '}
-                  — AI Research & Data Science • Model Development & Analysis
+                  — Frontend Developer • UX Design & Cloud Integration
                 </li>
               </ul>
             </div>
